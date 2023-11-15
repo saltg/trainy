@@ -7,16 +7,17 @@
 
 Цель исследования:
 
-    проверить данные на соответствие техническому заданию, оценить корректность проведения теста;
+    проверить данные на соответствие техническому заданию,
+    оценить корректность проведения теста;
     проанализировать результаты теста.
 
 
-Испольуемые библиотеки:
+Используемые библиотеки:
 pandas, datetime, timedelta,  math,  numpy,  scipy.stats,  proportions_ztest,
 pyplot,  seaborn,  plotly.io,  plotly.express,  plotly.graph_objects,  make_subplots
 
 
 Пожалуйста, воспользуйтесь ссылкой, чтобы увидеть этот проект с графиками plotly.
 
-
+https://nbviewer.org/github/saltg/trainy/blob/main/retail_items_analysis/retail_items_final_2023.ipynb
 
