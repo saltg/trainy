@@ -15,9 +15,3 @@
 Используемые библиотеки:  
 pandas, datetime, timedelta,  numpy,  scipy.stats,  
 pyplot,  seaborn.
-
-
-Пожалуйста, воспользуйтесь ссылкой, чтобы увидеть этот проект с графиками plotly.
-
-https://nbviewer.org/github/saltg/trainy/blob/main/AB_testing_final/AB_testing_final_2023.ipynb
-
