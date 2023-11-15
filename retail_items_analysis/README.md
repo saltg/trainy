@@ -12,7 +12,7 @@
 какие товары оставить, вывести, добавить в ассортимент,  
 какие товары дополнительно предлагать клиентам при покупках.
 
-Испольуемые библиотеки:  
+Используемые библиотеки:  
 pandas, datetime, timedelta,  math,  numpy,  scipy.stats,  proportions_ztest,  
 pyplot,  seaborn,  plotly.io,  plotly.express,  plotly.graph_objects,  make_subplots
 
