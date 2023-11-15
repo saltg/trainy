@@ -14,4 +14,4 @@
 
 Используемые библиотеки:  
 pandas, datetime, timedelta,  numpy,  scipy.stats,  
-pyplot,  seaborn.
+pyplot,  seaborn,  warnings.
