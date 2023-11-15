@@ -18,5 +18,6 @@ pyplot,  seaborn,  plotly.io,  plotly.express,  plotly.graph_objects,  make_subp
 
 
 Пожалуйста, воспользуйтесь этой ссылкой, чтобы увидеть этот проект с графиками plotly.
+
 https://nbviewer.org/github/saltg/trainy/blob/main/retail_items_analysis/retail_items_final_2023.ipynb
 
